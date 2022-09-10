@@ -9,7 +9,7 @@ N/A
 
 Usage
 
-Link to the webpage: https://ramosw1993.github.io/Challenge-1-Horiseon/
+Link to the webpage: https://ramosw1993.github.io/Challenge-Horiseon/
 
 Screen shots from laptop:
 
